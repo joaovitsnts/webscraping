@@ -1,17 +1,25 @@
-# Amazon Ofertas Scraper
+# 🎓 Asimov Academy Scraper
 
-Projeto de Web Scraping desenvolvido em Python para analisar todos os cursos executados e não executados da plataforma de estudos da Asimov Academy utilizando selenium.
-## Tecnologias
+Projeto de Web Scraping desenvolvido em Python para automatizar a análise dos cursos concluídos e não concluídos na plataforma Asimov Academy.
 
-* Python
-* Selenium
-* Pandas
-* OpenPyXL
+A automação realiza login, navegação na plataforma e coleta de dados dos cursos, gerando um relatório estruturado em Excel.
 
-## Estrutura
+---
+
+## ⚙️ Tecnologias utilizadas
+
+- Python
+- Selenium
+- Pandas
+- OpenPyXL
+- WebDriver Manager
+
+---
+
+## 📂 Estrutura do projeto
 
 ```text
-asimov-academy/
+asimov/
 │
 ├── src/
 │   ├── asimov_scraper.py
@@ -19,8 +27,7 @@ asimov-academy/
 │
 ├── output/
 │   └── Status_asimov_academy.xlsx
-│   
+│
 ├── requirements.txt
 │
 └── README.md
-```

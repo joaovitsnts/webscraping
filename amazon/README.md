@@ -1,15 +1,22 @@
-# Amazon Ofertas Scraper
+# 📦 Amazon Offers Scraper
 
-Projeto de Web Scraping desenvolvido em Python para coletar ofertas da Amazon por categorias utilizando Selenium.
+Projeto de Web Scraping desenvolvido em Python para coleta automatizada de ofertas da Amazon organizadas por categorias.
 
-## Tecnologias
+A automação utiliza Selenium para navegação e extração de dados, gerando relatórios estruturados em Excel para análise.
 
-* Python
-* Selenium
-* Pandas
-* OpenPyXL
+---
 
-## Estrutura
+## ⚙️ Tecnologias utilizadas
+
+- Python
+- Selenium
+- Pandas
+- OpenPyXL
+- WebDriver Manager
+
+---
+
+## 📂 Estrutura do projeto
 
 ```text
 amazon/
@@ -22,11 +29,10 @@ amazon/
 │   ├── Consolidated_sheets.xlsx
 │   ├── Consolidated.xlsx
 │   ├── DataFrame_Alimentos e Bebidas.xlsx
-│   ├── DataFrame_Apps e Jogos.xlsx.xlsx
+│   ├── DataFrame_Apps e Jogos.xlsx
 │   ├── DataFrame_Automotivo.xlsx
 │   └── DataFrame_Bebês.xlsx
-│   
+│
 ├── requirements.txt
 │
 └── README.md
-```
