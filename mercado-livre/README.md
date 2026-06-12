@@ -1,4 +1,4 @@
-# 🛒 Mercado Livre Offers Scraper
+# Mercado Livre Offers Scraper
 
 Projeto de Web Scraping desenvolvido em Python para coleta automatizada de ofertas do Mercado Livre.
 
@@ -6,7 +6,7 @@ A automação utiliza Selenium para navegação e extração de dados, estrutura
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - Selenium
@@ -16,7 +16,7 @@ A automação utiliza Selenium para navegação e extração de dados, estrutura
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 mercado-livre/

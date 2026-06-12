@@ -1,4 +1,4 @@
-# 🎓 Asimov Academy Scraper
+# Asimov Academy Scraper
 
 Projeto de Web Scraping desenvolvido em Python para automatizar a análise dos cursos concluídos e não concluídos na plataforma Asimov Academy.
 
@@ -6,7 +6,7 @@ A automação realiza login, navegação na plataforma e coleta de dados dos cur
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - Selenium
@@ -16,7 +16,7 @@ A automação realiza login, navegação na plataforma e coleta de dados dos cur
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 asimov/
